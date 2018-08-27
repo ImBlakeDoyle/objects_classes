@@ -4,7 +4,7 @@ class Cats
     end
 
     def speak
-        puts"#{@name} says dogs are superior"
+        puts"#{@name}, #{@age}, says dogs are superior"
     end
 end
 
